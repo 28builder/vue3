@@ -42,6 +42,7 @@
     ],
     "parserOptions": {
       "ecmaVersion": 2020
+      
     },
     "rules": {}
   },
